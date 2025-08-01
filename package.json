@@ -1,5 +1,6 @@
 {
 	"author": "Simone Earl D. Madarang",
+	"description": "A Node.js project that demonstrates package.json usage",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
